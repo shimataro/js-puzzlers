@@ -1,4 +1,4 @@
-Date / getters
+Libraries / Date
 ===
 
 ## 実行例

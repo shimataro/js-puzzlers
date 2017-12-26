@@ -6,7 +6,7 @@ Asynchronous / callback
 ```javascript
 // 1秒待つ
 setTimeout(function() {
-	console.log("foo");
+    console.log("foo");
 }, 1000);
 
 // 2秒待つ

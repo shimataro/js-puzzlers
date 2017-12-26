@@ -5,10 +5,10 @@ JavaScriptのハマリどころまとめてみました。
 
 * Asynchronous
     * [callback](./src/asynchronous/callback/q.md)
-* Date
-    * [getters](./src/date/getters/q.md)
-    * [timezone](src/date/timezone/q.md)
-    * [timezone-2](./src/date/timezone-2/q.md)
+* Libraries
+    * [Date](src/libraries/date/q.md)
+    * [Date-2](src/libraries/date-2/q.md)
+    * [Date-3](src/libraries/date-3/q.md)
 * Syntax
     * [closure](./src/syntax/closure/q.md)
     * [variable](./src/syntax/variable/q.md)
