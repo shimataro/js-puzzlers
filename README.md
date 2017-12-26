@@ -9,6 +9,7 @@ JavaScriptのハマリどころまとめてみました。
     * [Date](src/libraries/date/q.md)
     * [Date-2](src/libraries/date-2/q.md)
     * [Date-3](src/libraries/date-3/q.md)
+    * [parseInt](src/libraries/parseint/q.md)
 * Syntax
     * [closure](./src/syntax/closure/q.md)
     * [variable](./src/syntax/variable/q.md)
